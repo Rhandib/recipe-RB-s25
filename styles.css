@@ -1,0 +1,52 @@
+body {
+    background-color: #c07047;
+   background-position: center;
+    align: center;
+    max-align; 200px;
+    max-hieght: 300px;
+    padding: 50px; 
+  }
+  
+  .menu {
+    padding: 10%;
+      margin-left: auto;
+      margin-right:auto;
+      Max-height: auto;
+     max-width: 1000px;
+   background-color: #b95f7d;
+      
+  }
+  
+  h1{
+     font-family: serif;
+     text-color:  hsl(306.5,98.2%,15.2%);
+    font-size: 400%;
+    margin-top: 10px;
+    margin-bottom: 15px; }
+    
+    Img { 
+      padding: 10%;
+      margin-left: auto;
+      margin-right:auto;
+      Max-height: auto;
+     max-width: 900px;
+      
+       }
+  
+    
+  h2,p {
+    font-size: 150%;
+     padding: 1%;
+  }
+  ul, li,ol { 
+    font-size: 125%;
+  max-width: 800%;}
+  
+  
+  h1, p {
+    text-align: center;
+  }
+  h2 { text-align: left;
+  margin: 30px;
+  font-family: serif;
+    text-color: brown;}
